@@ -40,7 +40,7 @@ All models were evaluated using:
 
 - `Bundel_Himanshu_A2.ipynb`: Jupyter notebook with full analysis
 - `Bundel_Himanshu_A2.html`: Exported HTML version of the notebook
-- Dataset: Not included in repo; assumed to be preloaded (`bikes.xlsx`)
+- Dataset: included in repo `bikes.xlsx`
 
 ## ✅ Conclusion
 
